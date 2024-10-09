@@ -60,21 +60,29 @@ Getting Started
 
 1.  **Clone the Repository**
 
-    `git clone https://github.com/your-username/loan-emi-calculator.git`
+    ```bash
+    git clone https://github.com/your-username/loan-emi-calculator.git
+    ```
 
 2.  **Navigate to the Project Directory**
 
-    `cd loan-emi-calculator`
+    ```bash
+    cd loan-emi-calculator
+    ```
 
 3.  **Install Dependencies**
 
     Using npm:
 
-    `npm install`
+    ```bash
+    npm install
+    ```
 
     Or using yarn:
 
-    `yarn install`
+    ```bash
+    yarn install
+    ```
 
 Usage
 -----
@@ -83,17 +91,23 @@ Usage
 
     Using npm:
 
-    `npm run dev`
+    ```bash
+    npm run dev
+    ```
 
     Or using yarn:
 
-    `yarn dev`
+    ```bash
+    yarn dev
+    ```
 
 2.  **Open the Application**
 
     Open your browser and navigate to:
 
-    `http://localhost:3000`
+    ```arduino
+    http://localhost:3000
+    ```
 
 3.  **Using the EMI Calculator**
 
